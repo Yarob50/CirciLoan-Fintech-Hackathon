@@ -1,0 +1,32 @@
+PODS:
+  - IQKeyboardManagerSwift (6.2.0)
+  - NVActivityIndicatorView (4.5.1):
+    - NVActivityIndicatorView/Presenter (= 4.5.1)
+  - NVActivityIndicatorView/Presenter (4.5.1)
+  - RevealingSplashView (0.6.0)
+  - Spring (1.0.6)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - RevealingSplashView
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: fafd0b2e8d4d46405bd86fa7ba84bb7f73a20b13
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  NVActivityIndicatorView: ec34a7b88c51fab270004a1a1f32116e711010cd
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+  Spring: 3d113f14575ef79aec9c5f906dfa4f5001c03254
+
+PODFILE CHECKSUM: 6f06f0f99f1f5f0d1c804bb70d6e36474a79fa27
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,6 @@
+framework module Pods_Fintech_ios {
+  umbrella header "Pods-Fintech_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
