@@ -12,5 +12,5 @@
 # Demo :video_camera:
 <img src="https://github.com/Yarob50/Fintech_ios/blob/master/demo.gif" height="550" />
 
-# Presentation Slides
+# Presentation Slides :tv:
 https://github.com/Yarob50/CirciLoan-Fintech-Hackathon/blob/master/Presentation.pptx
